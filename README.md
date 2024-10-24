@@ -4,7 +4,7 @@
 
 ##
 
-### Tecnologias que eu tenho conhecimento 👨‍💻
+### Tecnologias que eu tenho conhecimento ❄️
 <div style="display: inline_block">
   <img  height="30" windth="30" src="https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img  height="30" windth="30" src="https://img.shields.io/badge/HTML-141414?style=for-the-badge&logo=html5&logoColor=white" />
