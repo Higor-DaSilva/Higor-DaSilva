@@ -11,4 +11,3 @@
 <img  height="30" windth="30" src="https://img.shields.io/badge/CSS-141414?&style=for-the-badge&logo=css3&logoColor=white" />
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Queijodedev&layout=compact)
